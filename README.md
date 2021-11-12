@@ -16,4 +16,5 @@ Once entering the website the client will see the basic opening and title with t
 * The user must know specific dates, cities, or shapes to search. Some shapes like "light" might not be as intuitive. The filters require correct lower-case spellings and cannot  include spaces at the end. 
 ### Recomendations 
 * A recommended filters update  should be to add a trim function to catch spaces at the end of words as well as allow for upper and lower cases.
+* A filter on a date range might be preferable than a singular date. with the current filter , if you donot know the exact date , ther eis not informaton .
 
